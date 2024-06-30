@@ -1,16 +1,12 @@
-## Hi there 👋
+# I'm Syed Basim,
+a website developer based in Bangalore. I'm not your average web developer who just learned HTML, CSS, and JavaScript. Here's why:
 
-<!--
-**thesyedbasim/thesyedbasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ I'm an experienced coder with a passion that started at age 11.
+- 🚀 Committed to crafting blazing-fast websites.
+- 🧪 Proficient in testing methodologies.
+- 🌐 I have a deep understanding of how the web and the internet work.
+- 🎨 Skilled in UI/UX design for creating intuitive user interfaces.
+- 🛠️ Skilled in automating workflows with CI/CD pipelines.
+- ☁️ I leverage AWS for robust cloud solutions.
+- 📚 Fast learner, adept at quickly adapting to new codebases and APIs by diving into documentation.
+- 😉 Fun fact: I can type extremely fast!
