@@ -1,5 +1,5 @@
 ## I'm Syed Basim,
-a website developer based in Bangalore.
+a **Web Developer** for over **6** years based in **Bangalore**.
 <br />
 Of course I'm good in HTML, CSS, JavaScript, TypeScript, React and Node, but the qualities which make me a better candidate than others are:
 
