@@ -9,7 +9,6 @@ Of course I'm good in HTML, CSS, JavaScript, TypeScript, React and Node, but the
 - 🌐 I have a deep understanding of how the web and the internet work.
 - 🎨 Skilled in UI/UX design for creating intuitive user interfaces.
 - 🌳 Proficient in Git, where I can work with multiple collaborators and handle merge conflicts and deployments.
-- 🛠️ Skilled in automating workflows with CI/CD pipelines.
 - 🗃️ Good in SQL and NoSQL databases to efficiently store and access corporate data.
 - 🐧 Good in using Linux and its terminal for faster and automated tasks.
 - ☁️ I leverage AWS for robust cloud solutions.
